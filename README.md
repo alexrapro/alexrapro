@@ -19,7 +19,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
 </p>
+
+### Setup
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MacBook%20M1%20Pro-333333?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook M1 Pro" height="28" />
+  <img src="https://img.shields.io/badge/WebStorm-222C37?style=for-the-badge&logo=webstorm&logoColor=38C4F0" alt="WebStorm" height="28" />
+  <img src="https://img.shields.io/badge/Warp%20Terminal-000000?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" height="28" />
+</p>
+
 
 ### Support Me
 
