@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Urlakher
 ==========================================================================================================================================
 
-Web Developer
--------------
-
 - 🖥️  See my portfolio at [Webatom](http://webatom.ru)
 - ✉️  You can contact me at [support@webatom.ru](mailto:support@webatom.ru)
 - 💬  Telegram: [@alexrapro](https://t.me/alexrapro)
