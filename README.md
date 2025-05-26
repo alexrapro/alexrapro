@@ -24,12 +24,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 </p>
 
-### Setup
+### Toolbox
 
 <p align="left">
   <img src="https://img.shields.io/badge/MacBook%20M1%20Pro-333333?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook M1 Pro" height="28" />
   <img src="https://img.shields.io/badge/WebStorm-222C37?style=for-the-badge&logo=webstorm&logoColor=38C4F0" alt="WebStorm" height="28" />
   <img src="https://img.shields.io/badge/Warp%20Terminal-000000?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" height="28" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28" />
 </p>
 
 
